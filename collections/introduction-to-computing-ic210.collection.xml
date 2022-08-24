@@ -1,3 +1,43 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11206</md:content-id>  <md:title>Introduction to Computing - IC210</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>e0ade044-bf49-4337-ba78-759b396db3a6</md:uuid>
-<md:slug>introduction-to-computing-ic210</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Introduction to Programming</md:title>                                <col:content>                    <col:module document="m18684">        <col:featured-links>                      <cnxml:link-group type="supplemental">              <cnxml:link url="http://cnx.org/content/m14619/latest/">Software Development Process</cnxml:link>              <cnxml:link url="http://en.wikipedia.org/wiki/Systems_Development_Life_Cycle">Wikipedia - Systems Development Life Cycle</cnxml:link>            </cnxml:link-group>                  </col:featured-links>      </col:module>                            <col:module document="m18785">        <col:featured-links>                      <cnxml:link-group type="supplemental">              <cnxml:link url="http://cnx.org/content/col10621/latest/">Programming Fundamentals - A Modular Structured Approach using C++</cnxml:link>            </cnxml:link-group>                  </col:featured-links>      </col:module>                            <col:module document="m18861">        <col:featured-links>                      <cnxml:link-group type="prerequisite">              <cnxml:link url="http://cnx.org/content/m18785/latest/">Bloodshed Dev-C++ 5 Compiler/IDE</cnxml:link>            </cnxml:link-group>                                <cnxml:link-group type="supplemental">              <cnxml:link url="http://www.webopedia.com/TERM/f/function.html">Webopedia - function</cnxml:link>            </cnxml:link-group>                  </col:featured-links>      </col:module>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Course" authors="Lori DeLooze">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11206</md:content-id>
+    <md:title>Introduction to Computing - IC210</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>e0ade044-bf49-4337-ba78-759b396db3a6</md:uuid>
+    <md:slug>introduction-to-computing-ic210</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Introduction to Programming</md:title>
+      <col:content>
+        <col:module document="m18684">
+          <col:featured-links>
+            <cnxml:link-group type="supplemental">
+              <cnxml:link url="http://cnx.org/content/m14619/latest/">Software Development Process</cnxml:link>
+              <cnxml:link url="http://en.wikipedia.org/wiki/Systems_Development_Life_Cycle">Wikipedia - Systems Development Life Cycle</cnxml:link>
+            </cnxml:link-group>
+          </col:featured-links>
+        </col:module>
+        <col:module document="m18785">
+          <col:featured-links>
+            <cnxml:link-group type="supplemental">
+              <cnxml:link url="http://cnx.org/content/col10621/latest/">Programming Fundamentals - A Modular Structured Approach using C++</cnxml:link>
+            </cnxml:link-group>
+          </col:featured-links>
+        </col:module>
+        <col:module document="m18861">
+          <col:featured-links>
+            <cnxml:link-group type="prerequisite">
+              <cnxml:link url="http://cnx.org/content/m18785/latest/">Bloodshed Dev-C++ 5 Compiler/IDE</cnxml:link>
+            </cnxml:link-group>
+            <cnxml:link-group type="supplemental">
+              <cnxml:link url="http://www.webopedia.com/TERM/f/function.html">Webopedia - function</cnxml:link>
+            </cnxml:link-group>
+          </col:featured-links>
+        </col:module>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
